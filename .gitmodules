@@ -1,0 +1,4 @@
+[submodule "odoo-source"]
+	path = odoo-source
+	url = https://github.com/PRDeving/odoo.git
+	branch = 12.0
